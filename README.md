@@ -1,4 +1,4 @@
-# Module: USING PRE-TRAINED MODELS AND SDKs
+USING PRE-TRAINED MODELS AND SDKs
 
 **Session Time:** 120 minutes
 
