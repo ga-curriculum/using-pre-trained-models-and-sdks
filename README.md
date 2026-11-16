@@ -226,7 +226,7 @@ graph TD
 
 **Objective:** Use the OpenAI Node.js SDK to build a backend text-summarization route, and use TensorFlow.js to build a frontend image-classification component.
 
-**Refer**: [**Adding AI Text or Sentiment Features**](https://git.generalassemb.ly/build-ai-powered-web-apps/Lab6_Adding-AI-Text-or-Sentiment-Features)
+**Refer**: [**Adding AI Text or Sentiment Features**](https://github.com/ga-curriculum/lab6-adding-ai-text-or-sentiment-features)
 
 ---
 
